@@ -33,7 +33,6 @@ Solicita una **API REST** que sea utilizada por una aplicación web (que será d
 - Docker  
 - Maven  
 - Lombok  
-- Swagger (para documentación)  
 - Postman (para testing)
 
 ---
